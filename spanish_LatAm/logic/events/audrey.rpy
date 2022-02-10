@@ -4,7 +4,7 @@
 translate spanish_LatAm Audrey_1_label_141b86f8:
 
     # ch_Name "{i}(Oh, that's Samantha's hot friend!){/i}"
-    ch_Name ""
+    ch_Name "{i}(¡Oh, ésa es la sexi amiga de Samantha!){/i}"
 
 # game/logic/events/audrey.rpy:144
 translate spanish_LatAm Audrey_1_label_17881b86:
